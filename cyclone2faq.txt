@@ -1,0 +1,92 @@
+Q: Does the GameSir Cyclone 2 controller support Xbox and PlayStation consoles?
+A: No, the GameSir Cyclone 2 cannot be directly used on Xbox or PlayStation consoles. It is compatible with PC, Nintendo Switch, Android, and iOS (in specific modes).
+
+Q: What software should I use with the GameSir Cyclone 2, and what if GameSir Nexus doesn’t recognize it?
+A: The GameSir Cyclone 2 should be used with GameSir Connect software via dongle or cable in Xinput mode.
+Download: https://gamesir.com/pages/gamesir-connect-software
+
+Q: I’m experiencing stick drift or trigger problems on the GameSir Cyclone 2. What should I do?
+A: Perform Stick & Trigger Calibration on the GameSir Cyclone 2 following the instructions in the manual.
+
+Q: On my GameSir Cyclone 2, the keys keep pressing continuously and the red light is flashing. What does it mean?
+A: The turbo function is enabled. On the GameSir Cyclone 2, double-tap the M button to turn off the turbo.
+
+Q: My GameSir Cyclone 2 cannot connect via Bluetooth or dongle, and the indicator blinks slowly. What should I do?
+A: Hold the Home Button + Share Button for 2 seconds to re-enter pairing mode (indicator should blink fast).
+If using the dongle, hold the dongle’s pairing button until it blinks fast, then re-pair with the GameSir Cyclone 2.
+
+Q: The firmware upgrade failed on my GameSir Cyclone 2 in GameSir Connect, and now it won’t turn on. What should I do?
+A: Reset the GameSir Cyclone 2 by pressing the reset hole on the back. Then, while unplugged, open GameSir Connect and hold View + Menu + Home while plugging it in. This forces firmware update mode.
+
+Q: What if my GameSir Cyclone 2 firmware cannot be upgraded successfully?
+A: Try another USB cable and port. If everything works normally, we suggest not upgrading.
+Manual upgrade tool: https://gamesir.com/pages/faq-questions-about-cyclone-2
+
+Q: When pairing the GameSir Cyclone 2 to PC, why does it show red/blue light instead of green and not work in games?
+A: The GameSir Cyclone 2 was switched into DS4/NS mode. Hold View + Menu to switch back to Xinput mode (green light).
+
+Q: Is it normal to have stick drift out of the box on the GameSir Cyclone 2 when deadzone is set to 0?
+A: Yes. Hall Effect sticks on the GameSir Cyclone 2 rely on frictionless re-centering. At 0 deadzone, tiny imperfections are noticeable. Use the default deadzone (around 5) or recalibrate.
+
+Q: Why doesn’t the GameSir Cyclone 2 support Bluetooth Xinput?
+A: Microsoft restrictions prevent Bluetooth Xinput. The GameSir Cyclone 2 includes a dongle to achieve wireless Xinput with low latency.
+
+Q: Why can’t I connect the GameSir Cyclone 2 to the GameSir mobile app?
+A: The GameSir Cyclone 2 has limited mobile app support. Please use GameSir Connect on PC. Settings are stored directly on the controller.
+
+Q: In Xinput mode (green light), my GameSir Cyclone 2 is not detected by GameSir Connect. What do I do?
+A: The GameSir Cyclone 2 may have failed PID recognition. While connected wirelessly, hold Home + Mode for 5s to reset. If still not working, uninstall the "Xbox 360 Controller for Windows" driver and let it reinstall.
+
+Q: My GameSir Cyclone 2 keeps disconnecting in dongle mode. How can I fix this?
+A: Make sure both controller and dongle firmware match (e.g. dongle v1.1.8 with controller v3.3.3). Update both in GameSir Connect. Avoid wireless interference and place the dongle closer using a USB extension if needed.
+
+Q: How do I pair my GameSir Cyclone 2 with the dongle?
+A: On the GameSir Cyclone 2, hold Home + X until Home blinks green. Then hold Home + Share for fast blinking. Press the dongle’s sync button.
+
+Q: My GameSir Cyclone 2 has stick or trigger issues. How can I calibrate it?
+A: On the GameSir Cyclone 2:
+
+Hold View + Home + Menu until Home blinks white.
+
+Without touching sticks/triggers, press A (light off).
+
+Fully press LT/RT three times, rotate sticks fully three times.
+
+Press A. Home light turns on = calibration complete.
+
+Q: The gyro on my GameSir Cyclone 2 isn’t working. How do I fix it?
+A: Place the GameSir Cyclone 2 flat, hold Mode + Share for 3 seconds. Home button flashes red/blue, then returns to normal once calibration finishes.
+
+Q: How do I update firmware on the GameSir Cyclone 2 controller and dongle?
+A: In GameSir Connect, press "Update Firmware".
+
+For dongle: update while connected. If it fails, hold sync button while plugging in.
+
+For controller: plug in and update. For manual update, hold Home + Menu while plugging in.
+
+Compatible versions:
+
+Dongle v1.1.6 → Controller v3.2.6–3.3.2
+
+Dongle v1.1.8 → Controller v3.3.3–3.3.7
+
+Dongle v1.1.9 → Controller v3.3.9–3.4.6
+
+Q: My GameSir Cyclone 2 is detected in the app but not in games, and shows red/blue instead of green. Why?
+A: The GameSir Cyclone 2 is in DS4/NS mode. Hold View + Menu to switch to Xinput (green).
+
+Q: On the GameSir Cyclone 2, buttons work in the app test but not in games. Why?
+A: They are mapped in the Shift Layer. Switch back to the Base Layer on the GameSir Cyclone 2 for normal in-game function.
+
+Q: How do I pair the GameSir Cyclone 2 in different modes?
+
+Dongle (Xinput): Hold Home + X (green blink), then Home + Share (fast blink), press dongle sync.
+
+iOS (DS4): Hold Home + B (blue blink), then Home + Share, select "DualShock 4 Controller" in Bluetooth.
+
+Nintendo Switch: Hold Home + B (red blink), then Home + Share, select controller in Switch "Change Grip/Order".
+
+Android HID: Hold Home + A (yellow blink), then Home + Share, select "GameSir Cyclone 2" in Bluetooth.
+
+Q: My GameSir Cyclone 2 is stuck and won’t turn on/off. What should I do?
+A: Use the reset hole on the back of the GameSir Cyclone 2. If that fails, enter force firmware update mode and reinstall firmware.
